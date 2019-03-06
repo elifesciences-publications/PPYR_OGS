@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Fallon et al., "Firefly genomes illuminate parallel origins of bioluminescence in beetles". eLife, 2018. http://dx.doi.org/10.7554/eLife.36495
+
+
 ## *Photinus pyralis* Official Geneset
 This is the Official Geneset (OGS) for [*Photinus pyralis* (Big Dipper Firefly)](https://en.wikipedia.org/wiki/Photinus_pyralis)
 
